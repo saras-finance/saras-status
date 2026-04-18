@@ -1,7 +1,7 @@
 url: https://ind-dev.sarasfinance.com/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-04-18T17:02:11.221Z
+status: up
+code: 200
+responseTime: 694
+lastUpdated: 2026-04-18T21:01:52.064Z
 startTime: 2026-02-03T20:00:49.365Z
 generator: Upptime <https://github.com/upptime/upptime>
